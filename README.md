@@ -2,7 +2,7 @@
 
 ### Eu sou o Alisson Rodrigues 🤗
 
-Tenho 10 anos de experiência no varejo, com foco em vendas e em construir relações interpessoais sólidas. Atualmente, estou mergulhando no mundo do desenvolvimento web, onde estou cursando um bootcamp na TripleTen. Lá, estou aprendendo a trabalhar com tecnologias como JavaScript, HTML, CSS, Node.js e React, que têm me dado uma visão ampla e prática sobre o mercado.
+Tenho 10 anos de experiência no varejo, com foco em vendas e em construir relações interpessoais sólidas. Atualmente, estou mergulhando no mundo do desenvolvimento web, onde estou cursando um bootcamp na TripleTen. Lá, estou aprendendo tecnologias como JavaScript, HTML, CSS, Node.js e React, que têm me dado uma visão ampla e prática sobre o mercado.
 
 Minha paixão é resolver problemas com soluções criativas e funcionais, e estou sempre em busca de aprimorar minhas habilidades técnicas e pessoais. Além disso, tenho inglês intermediário e estou focado em alcançar fluência para expandir minhas oportunidades no mercado de tecnologia.
 
