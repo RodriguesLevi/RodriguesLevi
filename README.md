@@ -15,7 +15,7 @@ Desenvolvedor em transição de carreira, apaixonado por criar experiências dig
 - CSS3 (Flexbox e Grid)
 - Node.js ️ (Back-end escalável)
 - React.js ⚛️ (SPA e componentes reutilizáveis)
-  Experiência em:
+
 
 Buscando uma oportunidade para aplicar meus conhecimentos em uma equipe dinâmica e contribuir para o desenvolvimento de produtos inovadores.
 
