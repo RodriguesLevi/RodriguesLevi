@@ -2,11 +2,23 @@
 
 ### Eu sou o Alisson Rodrigues 🤗
 
-Tenho 10 anos de experiência no varejo, com foco em vendas e em construir relações interpessoais sólidas. Atualmente, estou mergulhando no mundo do desenvolvimento web, onde estou cursando um bootcamp na TripleTen. Lá, estou aprendendo tecnologias como JavaScript, HTML, CSS, Node.js e React, que têm me dado uma visão ampla e prática sobre o mercado.
+🔍 Desenvolvedor Full-Stack em Formação
 
-Minha paixão é resolver problemas com soluções criativas e funcionais, e estou sempre em busca de aprimorar minhas habilidades técnicas e pessoais. Além disso, tenho inglês intermediário e estou focado em alcançar fluência para expandir minhas oportunidades no mercado de tecnologia.
+🎓Bootcamp TripleTen Brasil
 
-Estou empolgado em contribuir para projetos que impactam pessoas e empresas de maneira positiva, unindo minha experiência prévia com o desenvolvimento web.
+🎓ADS Descomplica Faculdade
+
+Desenvolvedor em transição de carreira, apaixonado por criar experiências digitais incríveis. Atualmente, estou dominando:
+
+- JavaScript ⚡ (ES6+)
+- HTML5 (Semântico e acessível)
+- CSS3 (Flexbox e Grid)
+- Node.js ️ (Back-end escalável)
+- React.js ⚛️ (SPA e componentes reutilizáveis)
+  Experiência em:
+
+Buscando uma oportunidade para aplicar meus conhecimentos em uma equipe dinâmica e contribuir para o desenvolvimento de produtos inovadores.
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-rodrigues-14783ab3/) 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alisson.rodriiguees/?next=%2F) 
