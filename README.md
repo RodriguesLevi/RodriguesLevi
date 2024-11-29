@@ -6,7 +6,6 @@
 
 🎓Bootcamp TripleTen Brasil
 
-🎓ADS Descomplica Faculdade
 
 Desenvolvedor em transição de carreira, apaixonado por criar experiências digitais incríveis. Atualmente, estou dominando:
 
