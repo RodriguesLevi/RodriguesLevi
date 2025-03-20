@@ -4,7 +4,9 @@
 
 🔍 Desenvolvedor Full-Stack em Formação
 
-🎓Bootcamp TripleTen Brasil
+🎓 Bootcamp TripleTen Brasil - Desenvolvimento Web
+
+🎓 Descomplica Faculdade - Analise e Desenvolvimento de Sistemas
 
 
 Desenvolvedor em transição de carreira, apaixonado por criar experiências digitais incríveis. Atualmente, estou dominando:
